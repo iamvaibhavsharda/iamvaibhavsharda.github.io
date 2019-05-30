@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//a1linksnow.com/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//iamvaibhavsharda.github.io/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://a1linksnow.com/post-sitemap.xml</loc>
+		<loc>https://iamvaibhavsharda.github.io/post-sitemap.xml</loc>
 		<lastmod>2019-05-15T09:17:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://a1linksnow.com/category-sitemap.xml</loc>
+		<loc>https://iamvaibhavsharda.github.io/category-sitemap.xml</loc>
 		<lastmod>2019-05-15T09:17:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://a1linksnow.com/post_tag-sitemap.xml</loc>
+		<loc>https://iamvaibhavsharda.github.io/post_tag-sitemap.xml</loc>
 		<lastmod>2019-05-07T01:13:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://a1linksnow.com/author-sitemap.xml</loc>
+		<loc>https://iamvaibhavsharda.github.io/author-sitemap.xml</loc>
 		<lastmod>2019-05-07T01:18:22+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
